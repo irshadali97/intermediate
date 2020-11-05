@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Cuprum', sans-serif;
+}
+
+.bg {
+    position: relative;
+}
+ .desktop {
+        display: none;
+}
+.logo {
+ 
+    position: absolute;
+    left: 155px;
+    top: 80px;
+   
+}
+.bg h1 {
+   position: absolute;
+   top: 240px;
+   left: 75px;
+   text-align: center;
+   max-width: 260px;
+font-size: 32px;
+   font-weight: 800;
+}
+.bg p {
+    position: absolute;
+    left: 70px;
+    top: 330px;
+    max-width: 260px;
+    text-align: center;
+    color: grey;
+    font-size: 16px;
+}
+.btn-ios {
+display: block;
+font-size: 1rem;
+font-weight: 400;
+padding: 16px;
+min-width: 300px;
+margin: 110px auto;
+border-radius: 30px;
+color: white;
+outline: none;
+background-color: hsl(171, 66%, 44%);
+border: 1px solid hsl(171, 66%, 44%);
+box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
+}
+.btn-Mac {
+    background-color: hsl(233, 100%, 69%);
+    border: 1px solid hsl(233, 100%, 69%);
+    box-shadow: 0px 3px 12px -3px hsl(233, 100%, 69%);
+    display: block;
+    min-width: 300px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    padding: 18px;
+    margin: -80px auto;
+    border-radius: 30px;
+    color: white;
+}
+.ktys h1 {
+    margin-top: 210px;
+    margin-left: 50px;
+    max-width: 290px;
+    font-weight: 600;
+    font-size: 33px;
+    text-align: center;
+
+}
+.ktys p {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    max-width: 290px;
+    color: hsl(201, 11%, 66%);
+    line-height: 22px;
+}
+.computer-img {
+   
+    margin-top: 40px;
+    margin-left: 45px;
+}
+.right-top h1 {
+    text-align: center;
+    margin-top: 30px;
+    max-width: 390px;
+    font-weight: 600;
+    font-size: 33px;
+}
+.right-top p {
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    max-width: 300px;
+    margin-top: 15px;
+    margin-left: 50px;
+    line-height: 22px;
+    
+}
+.anywhere h1 {
+    margin-top: 130px;
+    margin-left: 45px;
+    text-align: center;
+    max-width: 290px;
+    font-weight: 600;
+    font-size: 33px;
+}
+.anywhere p {
+    margin: 15px;
+    margin-left: 50px;
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    max-width: 300px;
+    line-height: 22px;
+}
+.device {
+    margin-top: 35px;
+    margin-left: 45px;
+}
+.workflow h1 {
+    margin-top: 80px;
+    margin-left: 45px;
+    text-align: center;
+    max-width: 290px;
+    font-weight: 600;
+    font-size: 33px;
+}
+.workflow p {
+    margin: 15px;
+    margin-left: 50px;
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    max-width: 300px;
+    line-height: 22px;
+}
+.features {
+    margin-top: 80px;
+    text-align: center;
+    margin-left: 0px;
+}
+.features h1 {
+    margin-top: 20px;
+    margin-left: 60px;
+    text-align: center;
+    max-width: 290px;
+    font-weight: 600;
+    font-size: 33px;
+
+}
+.features p {
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    max-width: 300px;
+    line-height: 22px;
+}
+.logos {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.company {
+    width: 130px;
+    margin: 30px auto;
+}
+.lastContainer {
+    margin-top: 100px;
+}
+.lastContainer h1 {
+    margin-top: 20px;
+    margin-left: 60px;
+    text-align: center;
+    max-width: 290px;
+    font-weight: 600;
+    font-size: 33px;
+}
+.lastContainer p {
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    color: hsl(201, 11%, 66%);
+    max-width: 300px;
+    line-height: 22px;
+}
+.btn-ios-d  {
+    display: block;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 16px;
+    min-width: 300px;
+    margin: 30px auto;
+    border-radius: 30px;
+    color: white;
+    outline: none;
+    background-color: hsl(171, 66%, 44%);
+    border: 1px solid hsl(171, 66%, 44%);
+    box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
+    }
+    .btn-Mac-d {
+        background-color: hsl(233, 100%, 69%);
+        border: 1px solid hsl(233, 100%, 69%);
+        box-shadow: 0px 3px 12px -3px hsl(233, 100%, 69%);
+        display: block;
+        min-width: 300px;
+        font-size: 1.1rem;
+        font-weight: 400;
+        padding: 18px;
+        margin: 20px auto;
+        border-radius: 30px;
+        color: white;
+    }
+   footer {
+       background-color: rgb(223, 215, 215);
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+   }
+   .footerLogo {
+       padding: 40px 2px;
+   }
+   .info {
+       list-style: none;
+       font-size: 1.2rem;
+       text-align: center;
+       line-height: 300%;
+   }
+a {
+    text-decoration: none;
+    color: rgb(112, 111, 111);
+}
+.social-media {
+    display: flex;
+    justify-content: center;
+     column-gap: 50px;
+    list-style: none;
+    margin: 30px auto;
+}
+@media screen and (min-width:1300px){   
+    body {
+        display: flex;
+    }  
+  .bg {
+      max-width: none;
+  }
+  .mobile {
+display: none;
+  }
