@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 body {
     font-size: 16px;
@@ -44,7 +45,7 @@ display: block;
 font-size: 1rem;
 font-weight: 400;
 padding: 16px;
-min-width: 300px;
+min-width: 265px;
 margin: 110px auto;
 border-radius: 30px;
 color: white;
@@ -58,7 +59,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
     border: 1px solid hsl(233, 100%, 69%);
     box-shadow: 0px 3px 12px -3px hsl(233, 100%, 69%);
     display: block;
-    min-width: 300px;
+    min-width: 265px;
     font-size: 1.1rem;
     font-weight: 400;
     padding: 18px;
@@ -86,7 +87,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 .computer-img {
    
     margin-top: 40px;
-    margin-left: 45px;
+    margin-left: auto;
 }
 .right-top h1 {
     text-align: center;
@@ -121,8 +122,8 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
     line-height: 22px;
 }
 .device {
-    margin-top: 35px;
-    margin-left: 45px;
+    margin-top: 35px auto;
+    
 }
 .workflow h1 {
     margin-top: 80px;
@@ -196,7 +197,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
     font-size: 1rem;
     font-weight: 400;
     padding: 16px;
-    min-width: 300px;
+    min-width: 265px;
     margin: 30px auto;
     border-radius: 30px;
     color: white;
@@ -210,7 +211,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
         border: 1px solid hsl(233, 100%, 69%);
         box-shadow: 0px 3px 12px -3px hsl(233, 100%, 69%);
         display: block;
-        min-width: 300px;
+        min-width: 265px;
         font-size: 1.1rem;
         font-weight: 400;
         padding: 18px;
