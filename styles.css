@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+    border: 1px solid black;    
 }
 body {
     font-size: 16px;
@@ -18,14 +18,14 @@ body {
 .logo {
  
     position: absolute;
-    left: 120px;
+    left: 145px;
     top: 80px;
    
 }
 .bg h1 {
    position: absolute;
    top: 240px;
-   left: 35px;
+   left: 50px;
    text-align: center;
    max-width: 260px;
 font-size: 32px;
@@ -33,7 +33,7 @@ font-size: 32px;
 }
 .bg p {
     position: absolute;
-    left: 35px;
+    left: 50px;
     top: 330px;
     max-width: 260px;
     text-align: center;
