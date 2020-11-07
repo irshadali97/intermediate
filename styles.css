@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
+   
 }
 body {
     font-size: 16px;
@@ -18,14 +18,14 @@ body {
 .logo {
  
     position: absolute;
-    left: 155px;
+    left: 120px;
     top: 80px;
    
 }
 .bg h1 {
    position: absolute;
    top: 240px;
-   left: 75px;
+   left: 35px;
    text-align: center;
    max-width: 260px;
 font-size: 32px;
@@ -33,7 +33,7 @@ font-size: 32px;
 }
 .bg p {
     position: absolute;
-    left: 70px;
+    left: 35px;
     top: 330px;
     max-width: 260px;
     text-align: center;
@@ -69,7 +69,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .ktys h1 {
     margin-top: 210px;
-    margin-left: 50px;
+    margin-left: 35px;
     max-width: 290px;
     font-weight: 600;
     font-size: 33px;
@@ -79,7 +79,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 .ktys p {
     text-align: center;
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 35px;
     max-width: 290px;
     color: hsl(201, 11%, 66%);
     line-height: 22px;
@@ -87,7 +87,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 .computer-img {
    
     margin-top: 40px;
-    margin-left: auto;
+    margin-left: 15px;
 }
 .right-top h1 {
     text-align: center;
@@ -101,13 +101,13 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
     color: hsl(201, 11%, 66%);
     max-width: 300px;
     margin-top: 15px;
-    margin-left: 50px;
+    margin-left: 35px;
     line-height: 22px;
     
 }
 .anywhere h1 {
     margin-top: 130px;
-    margin-left: 45px;
+    margin-left: 35px;
     text-align: center;
     max-width: 290px;
     font-weight: 600;
@@ -115,19 +115,20 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .anywhere p {
     margin: 15px;
-    margin-left: 50px;
+    margin-left: 35px;
     text-align: center;
     color: hsl(201, 11%, 66%);
     max-width: 300px;
     line-height: 22px;
 }
 .device {
-    margin-top: 35px auto;
+    margin-top: 35px;
+    margin-left: 15px;
     
 }
 .workflow h1 {
     margin-top: 80px;
-    margin-left: 45px;
+    margin-left: 35px;
     text-align: center;
     max-width: 290px;
     font-weight: 600;
@@ -135,7 +136,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .workflow p {
     margin: 15px;
-    margin-left: 50px;
+    margin-left: 35px;
     text-align: center;
     color: hsl(201, 11%, 66%);
     max-width: 300px;
@@ -148,7 +149,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .features h1 {
     margin-top: 20px;
-    margin-left: 60px;
+    margin-left: 35px;
     text-align: center;
     max-width: 290px;
     font-weight: 600;
@@ -157,7 +158,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .features p {
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 35px;
     text-align: center;
     color: hsl(201, 11%, 66%);
     max-width: 300px;
@@ -178,7 +179,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .lastContainer h1 {
     margin-top: 20px;
-    margin-left: 60px;
+    margin-left: 35px;
     text-align: center;
     max-width: 290px;
     font-weight: 600;
@@ -186,7 +187,7 @@ box-shadow: 0px 3px 12px -3px hsl(171, 66%, 44%);
 }
 .lastContainer p {
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 35px;
     text-align: center;
     color: hsl(201, 11%, 66%);
     max-width: 300px;
